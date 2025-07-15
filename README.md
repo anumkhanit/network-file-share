@@ -138,4 +138,6 @@ accounting
 
 ### Conclusion
 
-<p>Hooray! You've finally reached to the end of the Active Directory lessons and with these task and the skills you've put into practice. You've lerned how to create shared folders, understood the factor of this file server structure setup and why it is setup like it, applied permissions, controlled access with groups, tested access as user in Client-1, using real-world permission validation, used AD Security Group, and finally, how you can best practice using the scalable access control.</p>
+<p>Hooray! You've finally reached to the end of the Active Directory lessons and with these task and the skills you've put into practice. You've lerned how to create shared folders, understood the factor of this file server structure setup and why it is setup like it.</p>
+	
+<p>You have also applied permissions, controlled access with groups, tested access as user in Client-1, using real-world permission validation, used AD Security Group, and finally, how you can best practice using the scalable access control.</p>
