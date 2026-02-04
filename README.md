@@ -6,7 +6,7 @@
 <p>In corporate networks, file sharing isn’t just about convenience—it’s about controlling who can access what. By setting up permissions properly, you can protect sensitive information, streamline collaboration, and ensure compliance with security policies.</p>
 
 <h1>🧠 Overview</h1>
-<p>In this final lab, we’ll walk through how to create shared folders with specific access levels, test permissions as different users, and use Active Directory (AD) groups to manage access. All steps are based on a hands-on lab using Microsoft Azure virtual machines and Active Directory.</p>
+<p>In this lab, we’ll walk through how to create shared folders with specific access levels, test permissions as different users, and use Active Directory (AD) groups to manage access. All steps are based on a hands-on lab using Microsoft Azure virtual machines and Active Directory.</p>
 
 <h2>Environments and Technologies to use</h2>
 
@@ -124,7 +124,7 @@ This lab demonstrates:
 
 -----
 
-### 🎯 Final Thoughts
+### 🎯 Conclusion
 
 By the end of this exercise, you’ve:
 	
